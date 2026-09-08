@@ -1,16 +1,33 @@
+# Hi, I'm Vikas
 
-# 💫 About Me:
-🔭Working on embedded systems & smart infrastructure projects<br>🤝 Open to collaborate on IoT, power systems & automation<br>🌱 Currently learning data science & cybersecurity fundamentals<br>💬 Ask me about electrical basics, C++, sensors & microcontrollers<br>⚡ Electrical & Electronics Engineering student focused on real-world solutions
+### Electrical & Electronics Engineering | Embedded Systems | C/C++
 
+I am an Electrical & Electronics Engineering student interested in embedded firmware, microcontrollers, RTOS concepts, control systems, and automation.
 
-## 🌐 Socials:
+I enjoy building practical projects that connect software with hardware and using simulation tools to test firmware before moving to physical hardware.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
-(https://instagram.com/ VIKAS SAVAKAR )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ VIKAS SAVAKAR ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ VIKAS SAVAKAR ) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikassavakar3@gmail.com) vikassavakar3@gmail.com
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
+## What I'm working with
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Embedded:** ESP32, Arduino, GPIO, ADC, UART
+- **Firmware:** C, C++, FreeRTOS concepts, task scheduling, queues
+- **Tools:** Arduino IDE, Arduino CLI, VS Code, Wokwi, Git, GitHub
+- **Interests:** Embedded systems, automation, control, IoT
+
+## Featured Project
+
+### RTOS-Based Embedded Monitoring System
+
+ESP32 + FreeRTOS monitoring firmware with DHT22 sensing, ADC input, inter-task communication, UART diagnostics, and threshold-based alarm control.
+
+[View the project](https://github.com/Vikas-Savakar/RTOS-Based-Embedded-Monitoring-System)
+
+## Current Focus
+
+- Strengthening embedded C/C++ fundamentals
+- Learning practical RTOS concepts and firmware architecture
+- Building simulation-based embedded projects
+- Preparing for embedded systems and core engineering placements
+
+## GitHub
+
+I use GitHub to document projects, firmware experiments, and technical learning with a focus on readable code and reproducible setups.
