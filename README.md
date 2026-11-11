@@ -16,9 +16,6 @@ ESP32 + FreeRTOS. Reads a DHT22 sensor and an ADC input, and drives alarm output
 **[Industrial Data Logger (ESP32)](https://github.com/Vikas-Savakar/Embedded_DataLogger_Project2)**
 Logs DHT22, ADC and RTC data to a microSD card as CSV, with sensor and SD fault handling.
 
-**[FaceFrame](https://github.com/Vikas-Savakar/FaceFrame)**
-Web app (React + TypeScript) that analyses face proportions entirely in the browser. No uploads.
-
 ## Contact
 
 [GitHub](https://github.com/Vikas-Savakar)
